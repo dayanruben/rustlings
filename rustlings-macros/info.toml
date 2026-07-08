@@ -304,7 +304,7 @@ Now, you have another tool in your toolbox!"""
 name = "vecs1"
 dir = "05_vecs"
 hint = """
-In Rust, there are two ways to define a Vector.
+In Rust, there are two basic ways to define a Vector.
 1. One way is to use the `Vec::new()` function to create a new vector
    and fill it with the `push()` method.
 2. The second way is to use the `vec![]` macro and define your elements
